@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @pavsob
 - 👀 I’m interested in AI
-- 📫 How to reach me pavsob23@gmail.com 
+- 📫 How to reach me pavsob23@gmail.com
+- Portfolio: https://pavsob.github.io/Pavel-Portfolio/
 - LinkedIn: https://www.linkedin.com/in/pavel-sobotka-4041ab197/
 
 <!---
